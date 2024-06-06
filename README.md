@@ -1,44 +1,40 @@
-# Anon - An eCommerce Website
+# Projeco - An eCommerce Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/anon-ecommerce-website?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
-
-Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+Projeco is a responsive eCommerce website built using HTML, CSS, and JavaScript. It provides a user-friendly interface for browsing products, managing a shopping cart, and completing the checkout process.
 
 ## Demo
 
-![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![Projeco Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![Projeco Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-## Prerequisites
+## Features
 
-Before you begin, ensure you have met the following requirements:
+- **Responsive Design**: Ensures optimal viewing experience across various devices.
+- **Product Catalog**: Browse a wide range of products with detailed descriptions.
+- **Shopping Cart**: Add products to the cart for later purchase.
+- **Checkout Process**: Securely complete orders with a smooth checkout process.
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+## Usage
 
-## Installing Anon
+To use Projeco locally, follow these steps:
 
-To install **Anon**, follow these steps:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/prakhar-blip/Projeco-E-commerce-website.git
 
-Linux and macOS:
+2. Navigate to the project directory:
+  cd Projeco-E-commerce-website
 
-```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
+3. Open the index.html file in your web browser.
 
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+## Contributing
+Contributions are welcome! Please feel free to submit issues and pull requests.
 
 ## License
+This project is licensed under the MIT License.  
 
-This project is **free to use** and does not contains any license.
+## Contact
+If you have any questions or feedback, you can reach out to the project owner:
+
+### Prakhar Sharma
+GitHub: @prakhar-blip
